@@ -29,8 +29,8 @@
   - [⚙️ Installation](#-installation)
   - [🤖 Usage](#🤖-usage)
   - [🧪 Testing](#🧪-testing)
-- [How to Play 🥳](#-how-to-play-)
-- [Contributing 🤝](#-contributing-)
+- [How to Play 🥳](#how-to-play-)
+- [Contributing 🤝](#contributing-)
 - [🎗 License](#-license)
 
 ---
